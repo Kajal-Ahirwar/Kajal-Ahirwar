@@ -1,17 +1,6 @@
 <h1 align="center">Hi, I'm Kajal 👋</h1>
 <p align="center">🌐 Web Developer | 💡 Problem Solver | 🎯 Tech Enthusiast</p>
 
----
-
-### 💫 About Me
-
-- 🎓 Aspiring web developer with strong foundations in **HTML, CSS, JavaScript**, and **React**
-- 🛠️ Skilled in creating responsive, dynamic UI components and **single-page applications**
-- 🚀 Passionate about clean code, intuitive design, and constant improvement
-- 💻 Java lover & competitive programming enthusiast
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages & Tools:**
