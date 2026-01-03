@@ -17,7 +17,7 @@
 ### 📣 Let's Connect!
 
 💌 [Email Me](mailto:imkajalahirwar15@gmail.com.com)  
-🐦 [Follow me on Twitter](https://x.com/Ahirwar__Kajal)]  
+🐦 [Follow me on Twitter](https://x.com/Ahirwar__Kajal)  
 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 📁 [Portfolio](https://yourwebsite.com)
 
