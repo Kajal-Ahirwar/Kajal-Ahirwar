@@ -24,6 +24,7 @@
 ---
 
 ![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kajal&show_icons=true&theme=radical)
+[![Github Badge]([https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourusername](https://learn.microsoft.com/api/achievements/share/en-us/KajalAhirwar-5645/7B5LV29Z?sharingId=4177D67F44A87636))
 
 ---
 
