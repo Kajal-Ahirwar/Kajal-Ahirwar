@@ -53,7 +53,7 @@ A passionate front-end focused Web Developer with an eye for design and a love f
 ## ✨ Interactive Quick Actions
 Click the buttons below to act instantly.
 
-[![Resume](https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat)](https://example.com/resume.pdf)
+[![Resume](https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat)]()
 [![Portfolio](https://img.shields.io/badge/Portfolio-Open-purple?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
 [![Email Me](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:imkajalahirwar15@gmail.com)
 [![Schedule a Chat](https://img.shields.io/badge/Book_a_call-Calendly-00a2ff?style=for-the-badge&logo=calendly)](https://calendly.com/your-calendly)
