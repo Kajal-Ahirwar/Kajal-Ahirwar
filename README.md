@@ -93,8 +93,7 @@ React, component design, web performance, converting designs to code, Java basic
 
 - Email: imkajalahirwar15@gmail.com
 - X (Twitter): https://x.com/Ahirwar__Kajal
-- LinkedIn: https://www.linkedin.com/in/yourprofile (replace with your profile)
-- Portfolio: https://yourwebsite.com (replace with your site)
+- LinkedIn: https://www.linkedin.com/in/kajal-ahirwar-b661732a8/
 
 ---
 
