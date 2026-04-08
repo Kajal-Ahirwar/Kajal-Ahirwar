@@ -4,7 +4,6 @@
 
 <p align="left">
   <a href="https://github.com/Kajal-Ahirwar"><img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=Kajal-Ahirwar&color=brightgreen" /></a>
-  <a href="https://github.com/Kajal-Ahirwar?tab=repositories"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal-Ahirwar&layout=compact&theme=radical" /></a>
 </p>
 
 A passionate front-end focused Web Developer with an eye for design and a love for performance and accessibility. I build small to mid-scale web applications using modern tools and best practices.
@@ -53,32 +52,24 @@ A passionate front-end focused Web Developer with an eye for design and a love f
 ## ✨ Interactive Quick Actions
 Click the buttons below to act instantly.
 
-[![Resume](https://img.shields.io/badge/View_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-Open-purple?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Open-purple?style=for-the-badge&logo=google-chrome)](https://kajal-ahirwar.github.io/Portfolio-website/)
 [![Email Me](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:imkajalahirwar15@gmail.com)
-[![Schedule a Chat](https://img.shields.io/badge/Book_a_call-Calendly-00a2ff?style=for-the-badge&logo=calendly)](https://calendly.com/your-calendly)
-
-> Replace example links with your real resume, portfolio and scheduling links.
+[![Schedule a Chat](https://img.shields.io/badge/Book_a_call-Calendly-00a2ff?style=for-the-badge&logo=calendly)](https://calendly.com/app/personal/profile)
 
 ---
 
 ## 🔭 Featured Projects
 Here are a few highlights — click to open the repo or demo:
 
-- Portfolio Website — A fast and responsive portfolio built with Vite + React. (link to repo)
-- Task Manager App — CRUD + local persistence + nice UI interactions. (link to repo)
-- Blog Template — Markdown-based blog with static rendering & good SEO. (link to repo)
+- Portfolio Website — A fast and responsive portfolio built with Vite + React. 
+- Task Manager App — CRUD + local persistence + nice UI interactions. 
+- Blog Template — Markdown-based blog with static rendering & good SEO. 
 
 You can see all my projects here: https://github.com/Kajal-Ahirwar?tab=repositories
 
 ---
 
 ## 📈 GitHub Stats
-
-<p align="left">
-  <img alt="Kajal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kajal-Ahirwar&show_icons=true&theme=radical" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kajal-Ahirwar&layout=compact&theme=radical" />
-</p>
 
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kajal-Ahirwar&theme=radical" />
 
@@ -97,23 +88,3 @@ React, component design, web performance, converting designs to code, Java basic
 
 ---
 
-## 🙋‍♀️ Want this README to be even more interactive?
-Ideas you can add (I can help implement):
-- Live project demo embeds (CodeSandbox / StackBlitz).
-- Animated skill progress bars (SVG).
-- A "Recently Worked On" dynamically-updated list using GitHub Actions + README update workflow.
-- A small badges generator for your latest blog posts or tweets.
-
-If you'd like, I can:
-1. Update this file and push a PR to your repo with working links and demo embeds.
-2. Create a GitHub Actions workflow that updates "Recently Worked On" automatically.
-
----
-
-Thanks for stopping by — let's build something awesome together! 💫
-
-<!--
-Notes:
-- Double-check and replace placeholder links (resume, portfolio, LinkedIn, Calendly) with your real URLs.
-- Email corrected to imkajalahirwar15@gmail.com (previous README had a duplicated .com).
--->
