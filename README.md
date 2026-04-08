@@ -1,12 +1,10 @@
-# Hi, I'm Kajal 👋
 
-<img align="right" alt="kajal coding" src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=20&pause=1000&color=00A6FF&width=540&lines=Hi%2C+I'm+Kajal+%F0%9F%91%8B;Web+Developer+%2F+Problem+Solver+%2F+Enthusiast" />
+
+<img align="right" alt="kajal coding" src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=17&pause=1000&color=00A6FF&width=540&lines=Hi%2C+I'm+Kajal+%F0%9F%91%8B;Web+Developer+%2F+Problem+Solver+%2F+Tech+Enthusiast" />
 
 <p align="left">
   <a href="https://github.com/Kajal-Ahirwar"><img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=Kajal-Ahirwar&color=brightgreen" /></a>
 </p>
-
-
 
 A passionate front-end focused Web Developer with an eye for design and a love for performance and accessibility. I build small to mid-scale web applications using modern tools and best practices.
 
